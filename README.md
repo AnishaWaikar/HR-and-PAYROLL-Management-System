@@ -1,1 +1,1 @@
-# HR-and-PAYROLL-Management-System
+his project is an HR and Payroll Management System designed to manage employee records, attendance, leaves, salaries, and performance. It includes structured data for employees, tracks working days, calculates monthly salaries, manages leave balances, and evaluates employee performance. The system helps streamline HR operations and ensures accurate payroll processing. It is ideal for small to medium businesses to maintain organized and efficient HR workflows.
